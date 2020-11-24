@@ -6,7 +6,7 @@ Examples.
 
 ```powershell
 ┌─[E:\sandbox]
-└λ Invoke-RegJuml hklm
+└λ Invoke-RegJump hklm
 
 ┌─[E:\sandbox]
 └λ regjump hklm
