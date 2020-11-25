@@ -12,5 +12,5 @@ Examples.
 └λ regjump hklm
 
 ┌─[E:\sandbox]
-└λ Get-Item HKLM:\SYSTEM\CurrentControl\ | regjump
+└λ Get-Item HKLM:\SYSTEM\CurrentControlSet\ | regjump
 ```
